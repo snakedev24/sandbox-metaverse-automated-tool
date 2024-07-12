@@ -15,7 +15,7 @@ The Sandbox Metaverse Automated Tool is designed to streamline interactions with
 
 1. Clone the repository:
     ```bash
-    git clone [<repository_url>](https://github.com/snakedev24/sandbox-metaverse-automated-tool.git)
+    git clone https://github.com/snakedev24/sandbox-metaverse-automated-tool.git
     cd sandbox-metaverse-automated-tool
     ```
 
